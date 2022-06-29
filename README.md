@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Grooooving : an app to create your new Spotify playlist !
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Dependencies : 
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Dotenv : to manage environment variables
 
 ## Available Scripts
 
